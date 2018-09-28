@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="toast_message">Press back again to exit</string>
+
+    <string name="dummy_attraction_name">Lagos Museum</string>
+    <string name="dummy_attraction_synopsis">Synopsis</string>
+    <string name="dummy_attraction_location">Ikoyi, Lagos</string>
+    <string name="dummy_attraction_hours">9:00AM - 5:00PM, Weekdays</string>
+    <string name="dummy_attraction_phone">08099996857</string>
+
+    <!-- Tab header names -->
+    <string name="hotels">Hotels</string>
+    <string name="stadiums">Stadiums</string>
+    <string name="museums">Museums</string>
+    <string name="churches">Churches</string>
+
+    <!-- List of Hotel Attractions -->
+    <string name="hotel_1_name">Eko Hotel &amp; Suites</string>
+    <string name="hotel_1_location">1415 Adetokumbo Ademola Street, Victoria Island</string>
+
+    <string name="hotel_2_name">Radisson Blu Anchorage Hotel</string>
+    <string name="hotel_2_location">1a Ozumba Mbadiwe Aveue, Victoria Island</string>
+
+    <string name="hotel_jehen_name">Jehan Numa Palace Hotel</string>
+    <string name="hotel_jehen_addr">157, Shamla Hill, Bhopal, Madhya Pradesh 462013</string>
+
+    <!-- List of Stadium Attractions -->
+    <string name="stadium_1_name">Agege Stadium</string>
+    <string name="stadium_1_location">Ijaye Road, Agege</string>
+
+    <string name="stadium_2_name">National Stadium</string>
+    <string name="stadium_2_location">National Stadium Complex Shittu, Surulere </string>
+
+    <string name="stadium_3_name">Teslim Balogun Stadium</string>
+    <string name="stadium_3_location">Alhaji Masha Road, Surulere, Lagos</string>
+
+    <!-- List of Museum Attractions -->
+    <string name="museum_1_name">Badagry Slave Museum and Black History Museum</string>
+    <string name="museum_1_location">Badagry Town, Badagry</string>
+
+    <string name="museum_2_name">The Narional Museum</string>
+    <string name="museum_2_location">Awolowo Road, Lagos</string>
+
+    <string name="museum_3_name">Kalakuta Republic Museum</string>
+    <string name="museum_3_location">8 Gbemisola Street, Lagos</string>
+
+    <!-- List of Church Attractions -->
+    <string name="church_1_name">The Synagogue Church of all Nations</string>
+    <string name="church_1_location">Egbde Road, Egbe</string>
+
+    <string name="church_2_name">Harvesters International Church</string>
+    <string name="church_2_location">Adeola Raji Avenue, Gbagda</string>
+
+    <string name="church_3_name">Trem Church</string>
+    <string name="church_3_location">Anthony Village Road, Somolu</string>
+
+    <string name="sch_kend_addr">Hoshangabad Road, Shriramsharnam Colony, Bagmugaliya, Bhopal, Madhya Pradesh 462026</string>
+    <string name="sch_kend_name">Kendriya Vidyalaya No. 3, Bhopal</string>
+
+
+    <string name="icon_location">&#xf3c5;</string>
+    <string name="icon_clock">&#xf017;</string>
+</resources>
